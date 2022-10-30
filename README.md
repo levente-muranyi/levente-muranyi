@@ -1,16 +1,13 @@
-### Hi there 👋
+18 year old beginner developer from Hungary.
 
-<!--
-**levente-muranyi/levente-muranyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning Java.
 
-Here are some ideas to get you started:
+Side projects are made in Python and C/C++/C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<b>Cybersecurity and CTFs for the thrill of competition.</b>
+
+Notable placements so far:
+
+    HCSC2022 - 7th (Junior category)
