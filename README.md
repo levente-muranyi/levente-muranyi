@@ -1,8 +1,8 @@
-18 year old beginner developer from Hungary.
+19 year old beginner developer from Hungary.
 
-Currently learning Java.
+Currently learning C#.
 
-Side projects are made in Python and C/C++/C#.
+Side projects are made in Python and C/C++/Java.
 
 ---
 
